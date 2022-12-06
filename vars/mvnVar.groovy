@@ -1,4 +1,4 @@
-import com.mavenSL
+import com.mvnBuild
 
 def call() {
     def mavenBuild = new mvnBuild(this)
